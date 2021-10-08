@@ -31,7 +31,7 @@
   "dependencies": {
     "browserslist": "^4.16.6",
     "caniuse-lite": "^1.0.30001243",
-    "colorette": "^1.2.2",
+    "colorette": "^1.4.0",
     "fraction.js": "^4.1.1",
     "normalize-range": "^0.1.2",
     "postcss-value-parser": "^4.1.0"
